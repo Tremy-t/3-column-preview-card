@@ -5,8 +5,8 @@
 
 ### Links
 
-- Solution : [Frontend Mentor solution](https://www.frontendmentor.io/solutions/results-summary-htmlcss-d-tTy_30Do)
-- Live Site : [Results Summary](https://tremy-t.github.io/results-summary/)
+- Solution : [Frontend Mentor solution](https://www.frontendmentor.io/solutions/3-column-preview-card-L6yWMz5oKH)
+- Live Site : [Results Summary](https://tremy-t.github.io/3-column-preview-card/)
 
 - ## Author
 
