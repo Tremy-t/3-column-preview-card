@@ -6,7 +6,7 @@
 ### Links
 
 - Solution : [Frontend Mentor solution](https://www.frontendmentor.io/solutions/3-column-preview-card-L6yWMz5oKH)
-- Live Site : [Results Summary](https://tremy-t.github.io/3-column-preview-card/)
+- Live Site : [3-column preview card](https://tremy-t.github.io/3-column-preview-card/)
 
 - ## Author
 
